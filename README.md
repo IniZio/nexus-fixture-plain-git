@@ -1,0 +1,1 @@
+This repository is a test fixture for Nexus XCUITests. It is a minimal, plain git repository with no build tooling — its sole purpose is to serve as a predictable remote target that the Nexus macOS app can clone, browse, and interact with during automated UI testing. It is not a real project and should not be used for anything else.
